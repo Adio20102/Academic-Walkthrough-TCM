@@ -9,3 +9,5 @@ Information gathering and scanning is the first and essential step to solve a ch
 <li data-selectable-paragraph=""><strong >Now we login to the machine using FTP port.</li></ul>
 
 <img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/RyYgC6g/Academy-ii.png"></img>
+
+<ul><li data-selectable-paragraph=""><strong >Give username as anonymous , put password blank and hit enter.</li></ul>
