@@ -10,4 +10,15 @@ Information gathering and scanning is the first and essential step to solve a ch
 
 <img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/RyYgC6g/Academy-ii.png"></img>
 
-<ul><li data-selectable-paragraph=""><strong >Give username as anonymous , put password blank and hit enter.</li></ul>
+Give `username` as `anonymous` , put `password` `blank` and hit enter.</br >
+We got a file called `note.txt` on the server.<br>
+`note.txt` file is revealing database query and student information as student ID and password hash.<br>
+
+# Directory Busting
+<ul>
+<li data-selectable-paragraph=""><strong >We move further on to port 80.</li>
+<li data-selectable-paragraph=""><strong >A default page is running on the port 80 server.</li>
+<li data-selectable-paragraph=""><strong >We will use a directory busting tool called ffuf.</li>
+</ul>
+
+
