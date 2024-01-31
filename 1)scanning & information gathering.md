@@ -31,3 +31,5 @@ We will use `hashcat` tool for cracking the password.
 
 We found some endpoints on the web server and `/academy` endpoint is looking suspicious.</br>
 It has a login form and we have student ID and a password found in the note.txt file from FTP server.
+
+<img alt="" class="bg hc hd c" width="1000" height="225" loading="lazy" role="presentation" src="https://i.ibb.co/K6YXjmh/Academy-6.png"></img>
