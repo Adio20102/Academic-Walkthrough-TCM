@@ -23,3 +23,4 @@ We got a file called `note.txt` on the server.<br>
 
 <img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/YNJZFsx/Academy-v.png"></img>
 
+We found some endpoints on the web server and `/academy` endpoint is looking suspicious.
