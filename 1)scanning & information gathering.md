@@ -21,4 +21,5 @@ We got a file called `note.txt` on the server.<br>
 <li data-selectable-paragraph=""><strong >We will use a directory busting tool called ffuf.</li>
 </ul>
 
+<img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/YNJZFsx/Academy-v.png"></img>
 
