@@ -12,4 +12,6 @@ The script is now on the remote machine change its permission and execute it.
 
 <img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/rQWqcWf/Academy-8.png"></img>
 
-The output is as follows
+The output is as follows:
+
+<img alt="" class="bg hc hd c" width="500" height="40" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*1O5igU4EkNrx9N_0.png"></img>
